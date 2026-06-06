@@ -32,6 +32,11 @@ Este dashboard permite:
 -  Analizar el impacto de los métodos de pago
 -  Detectar regiones clave para el negocio
 
+  🧠 Decisiones sugeridas
+-  Optimizar costos en productos grandes
+-  Incentivar métodos de pago más rentables
+-  Focalizar campañas en regiones con mayor conversión
+
 📎 Archivo
 El archivo .pbix está incluido en el repositorio para su descarga y exploración.
 
